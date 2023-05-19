@@ -1,0 +1,95 @@
+@import url(./style.css);
+@import url(./style.css.map);
+
+body{
+    background-color: rgb(236, 236, 236) line-great(rgb(255, 249, 249),rgb(255, 253, 253));
+}
+.w-10{
+    width: 20vh;
+}
+.drop{
+    width: 5vh;
+}
+.flag{
+    width: 20%;
+}
+.num{
+    width: 60%;
+}
+.header-top{
+    border-bottom: 1px solid rgb(236, 236, 236);
+}
+.list-1{
+    list-style: none;
+    li{
+        a{
+        color: rgb(192, 189, 189);
+        text-decoration: none;
+        margin: 10px;
+        font-size: 15px;
+        span{
+            color: #dc3545;
+        }
+      } 
+    }
+   
+}
+.list-2{
+    list-style: none;
+    li{
+        a{
+            text-decoration: none;
+            color: #000;
+        }
+    }
+
+}
+.users{
+a{
+    i{
+        font-size: 20px;
+    }
+}
+}
+.logo{
+    .logo-1{
+      img{
+        width: 100px;
+        
+      }
+    }
+   
+    .btn{
+    align-items: center;
+    
+     button{
+        a{
+            text-decoration: none;
+            color: #fff;
+        }
+        padding: 10px;
+        span{
+            color: #fff;
+        }
+      }
+    }
+   .inp{
+      justify-content:start ;
+       align-items: center;
+     .search1{
+      height: 60%;
+    } 
+   i{
+    font-size: 30px;
+   }
+   } 
+}
+.btn{
+    
+    button{
+      justify-content: start;  
+      border-radius: 10px;
+      padding: 60px;  
+    } 
+    
+}
